@@ -28,7 +28,6 @@ ul {
 
 li {
     margin-bottom: 20px;
-    font-size: 24px;
 }
 
 footer {
@@ -66,11 +65,6 @@ nav {
 .link-nav:hover {
     background-color: #1D1AB2;
     color: #7573D9;
-}
-h2 {
-    color: #FF9400;
-    font-size: 45px;
-    margin-left: 10px;
 }
 
 .link-header:hover {
